@@ -10,9 +10,10 @@
 **Languages and Skills**
 
 <code><img height="40" alt="Java" src="https://www.svgrepo.com/show/184143/java.svg"></code>
-<code><img height="40" alt="firebase" src="https://www.svgrepo.com/show/303670/firebase-1-logo.svg"></code>
 <code><img height="40" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="40" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="40" alt="Android" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgw8vfH3YEMomqWzKKdrudj03gpXlVaLG6-w&usqp=CAU"></code>
+<code><img height="40" alt="firebase" src="https://www.svgrepo.com/show/303670/firebase-1-logo.svg"></code>
 
 </p>
 <br>
