@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web development and practicing competitive coding.**
 
-- 📫 How to reach me **adityaa11233@gmail.com**
+- 📫 How to reach me **jayagarwal2003@gmail.com**
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
