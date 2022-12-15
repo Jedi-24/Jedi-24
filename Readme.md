@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jay Aggarwal</h1>
-<h3 align="center">Trying to Learn New Things..</h3>
+<h3 align="center">Learning New Things..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jedi-24&label=Profile%20views&color=0e75b6&style=flat" alt="Jayyy" /> </p>
 
