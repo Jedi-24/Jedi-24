@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jedi-24&label=Profile%20views&color=0e75b6&style=flat" alt="Jayyy" /> </p>
 
-- 🌱 I’m currently learning **Web development and practicing competitive coding.**
+- 🌱 I’m currently learning **Android development.**
 
 - 📫 How to reach me **jayagarwal2003@gmail.com**
 
