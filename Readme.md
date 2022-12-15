@@ -9,10 +9,10 @@
 
 </p>
 <br>
-<p align="center">
+<p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=Jedi-24&show_icons=true&theme=dracula" width="400">
 </p>
 <br>
-<p align="center">
+<p align="left">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jedi-24&theme=tokyonight">
 </p>
