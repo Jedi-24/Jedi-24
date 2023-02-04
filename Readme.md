@@ -14,8 +14,10 @@ My name is Jay Aggarwal and I'm a Software Developer (Android and Full stack).
 <code><img height="40" alt="Android" src="https://www.svgrepo.com/show/349588/android.svg"></code>
 <code><img height="40" alt="MySql" src="https://www.svgrepo.com/show/373848/mysql.svg"></code>
 <code><img height="40" alt="firebase" src="https://www.svgrepo.com/show/303670/firebase-1-logo.svg"></code>
-<code><img height="40" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="40" alt="spring boot" src="https://icons8.com/icon/A3Ulk2RcONKs/spring-boot"></code>
 <code><img height="40" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+
+## &#x1f4c8; GitHub Stats
 
 </p>
 <br>
