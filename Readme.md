@@ -19,12 +19,11 @@ My name is Jay Aggarwal and I'm a Software Developer (Android and Full stack).
 
 ## &#x1f4c8; GitHub Stats
 
-</p>
 <br>
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=Jedi-24&show_icons=true&theme=dracula" width="400">
 &nbsp;
 </p>
-<p align="right">
+<p align="left">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jedi-24&theme=tokyonight&layout=compact">
 </p>
